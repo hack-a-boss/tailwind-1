@@ -1,0 +1,32 @@
+/* .btn {
+  background-color: steelblue;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 0.5rem;
+}
+ */
+
+.background-steelblue {
+  background-color: steelblue;
+}
+
+.text-white {
+  color: rgba(255, 255, 255, 0.768);
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.no-border {
+  border: none;
+}
+
+.p-0-5 {
+  padding: 0.5rem;
+}
+
+.text-xl {
+  font-size: 1.5rem;
+}
